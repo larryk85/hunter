@@ -15,11 +15,11 @@ hunter_add_version(
     PACKAGE_NAME
     LLVM
     VERSION
-    "9.0.1-rc3"
+    "9.0.1"
     URL
-    "https://github.com/llvm/llvm-project/releases/download/llvmorg-9.0.1-rc3/llvm-9.0.1rc3.src.tar.xz"
+    "https://github.com/llvm/llvm-project/releases/download/llvmorg-9.0.1/llvm-9.0.1.src.tar.xz"
     SHA1
-    eeeae59da4fddb92abcfb77e7e941a541ce4ad49
+    f7fcf3bd92d130784513c06efe6910f135372ce3
 )
 
 hunter_add_version(
